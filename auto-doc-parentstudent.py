@@ -19,7 +19,7 @@ def collect_info(info_type, fields, defaults=None):
 PARENT_FIELDS = [
     "Last Name", "First Name", "Middle Name", "Extension Name",
     "Address", "Sex", "Civil Status", "Date of Birth",
-    "Contact Number", "Occupation", "Monthly Salary"
+    "Contact Number", "Occupation", "Monthly Salary", "Relationship to Beneficiary"
 ]
 
 STUDENT_FIELDS = [
